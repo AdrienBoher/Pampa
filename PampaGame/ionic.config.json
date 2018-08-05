@@ -1,0 +1,8 @@
+{
+  "name": "PampaGame",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "89cc34b3"
+}
